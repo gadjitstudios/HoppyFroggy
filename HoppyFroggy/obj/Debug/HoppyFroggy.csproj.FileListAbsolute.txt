@@ -1,0 +1,19 @@
+C:\Users\Ryan\Documents\GitHub\C#\HoppyFroggy\HoppyFroggy\obj\Debug\HoppyFroggy.Form1.resources
+C:\Users\Ryan\Documents\GitHub\C#\HoppyFroggy\HoppyFroggy\obj\Debug\HoppyFroggy.Properties.Resources.resources
+C:\Users\Ryan\Documents\GitHub\C#\HoppyFroggy\HoppyFroggy\obj\Debug\HoppyFroggy.csproj.GenerateResource.Cache
+C:\Users\Ryan\Documents\GitHub\C#\HoppyFroggy\HoppyFroggy\bin\Debug\HoppyFroggy.exe.config
+C:\Users\Ryan\Documents\GitHub\C#\HoppyFroggy\HoppyFroggy\bin\Debug\HoppyFroggy.exe
+C:\Users\Ryan\Documents\GitHub\C#\HoppyFroggy\HoppyFroggy\bin\Debug\HoppyFroggy.pdb
+C:\Users\Ryan\Documents\GitHub\C#\HoppyFroggy\HoppyFroggy\obj\Debug\HoppyFroggy.exe
+C:\Users\Ryan\Documents\GitHub\C#\HoppyFroggy\HoppyFroggy\obj\Debug\HoppyFroggy.pdb
+C:\Users\Ryan\Documents\GitHub\C#\HoppyFroggy\HoppyFroggy\obj\Debug\HoppyFroggy.csprojResolveAssemblyReference.cache
+D:\Software Projects\C#\HoppyFroggy\HoppyFroggy\bin\Debug\HoppyFroggy.exe.config
+D:\Software Projects\C#\HoppyFroggy\HoppyFroggy\bin\Debug\HoppyFroggy.exe
+D:\Software Projects\C#\HoppyFroggy\HoppyFroggy\bin\Debug\HoppyFroggy.pdb
+D:\Software Projects\C#\HoppyFroggy\HoppyFroggy\obj\Debug\HoppyFroggy.csprojAssemblyReference.cache
+D:\Software Projects\C#\HoppyFroggy\HoppyFroggy\obj\Debug\HoppyFroggy.Form1.resources
+D:\Software Projects\C#\HoppyFroggy\HoppyFroggy\obj\Debug\HoppyFroggy.Properties.Resources.resources
+D:\Software Projects\C#\HoppyFroggy\HoppyFroggy\obj\Debug\HoppyFroggy.csproj.GenerateResource.cache
+D:\Software Projects\C#\HoppyFroggy\HoppyFroggy\obj\Debug\HoppyFroggy.csproj.CoreCompileInputs.cache
+D:\Software Projects\C#\HoppyFroggy\HoppyFroggy\obj\Debug\HoppyFroggy.exe
+D:\Software Projects\C#\HoppyFroggy\HoppyFroggy\obj\Debug\HoppyFroggy.pdb
